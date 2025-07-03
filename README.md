@@ -16,7 +16,7 @@ names.)
 - git commit -m ‘useful commit message’
 - Push the changes to your remote branch.
 - git push origin name-of-your-branch e.g
-- git push origin samuel/development
+- git push origin soa1580/development
 - Back on Github website in your browser, a new pull request button will appear, click on it.
 - You will be taken to where you will fill the pull request form.
 - Edit the title of the pull request or leave it as it is.
