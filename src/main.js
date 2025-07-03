@@ -12,5 +12,8 @@
  function createSix (){
     return 6
  }
+ function createSeven (){
+    return 7
+ }
 
- module.exports = {createThree, createFour, createFive, createSix}
+ module.exports = {createThree, createFour, createFive, createSix, createSeven}
